@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Boiling",
+  "base_artist": "Disclosure",
+  "createdAt": "2026-02-14T06:06:10.822384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boiling Water",
+      "artist": "Magnetic Man feat. Sam Frank",
+      "has_synced": true,
+      "path": "select/01_Boiling_Water_Magnetic_Man_feat._Sam_Frank.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boiling Water (Feat. Sam Frank)",
+      "artist": "Magnetic Man",
+      "has_synced": true,
+      "path": "select/02_Boiling_Water_(Feat._Sam_Frank)_Magnetic_Man.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boiling Point",
+      "artist": "Au Revoir Simone",
+      "has_synced": true,
+      "path": "select/03_Boiling_Point_Au_Revoir_Simone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boiling - Medlar Remix",
+      "artist": "Disclosure",
+      "has_synced": false,
+      "path": "select/04_Boiling_-_Medlar_Remix_Disclosure.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boiling (feat. Sinead Harnett) [Dixon Rework]",
+      "artist": "Disclosure feat. Sinead Harnett",
+      "has_synced": false,
+      "path": "select/05_Boiling_(feat._Sinead_Harnett)_[Dixon_Rework]_Disclosure_feat._Sinead_Harnett.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boiling (Feat. Sinead Harnett) (Dixon Rework)",
+      "artist": "Disclosure",
+      "has_synced": false,
+      "path": "select/06_Boiling_(Feat._Sinead_Harnett)_(Dixon_Rework)_Disclosure.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boiling - Medlar Remix",
+      "artist": "Disclosure feat. Sinead Harnett",
+      "has_synced": false,
+      "path": "select/07_Boiling_-_Medlar_Remix_Disclosure_feat._Sinead_Harnett.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boiling (Feat. Sinead Harnett) (Medlar Remix)",
+      "artist": "Disclosure",
+      "has_synced": false,
+      "path": "select/08_Boiling_(Feat._Sinead_Harnett)_(Medlar_Remix)_Disclosure.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boiling",
+      "artist": "Disclosure feat. Sinead Harnett",
+      "has_synced": true,
+      "path": "select/09_Boiling_Disclosure_feat._Sinead_Harnett.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boiling (feat. Sinead Harnett)",
+      "artist": "Disclosure",
+      "has_synced": true,
+      "path": "select/10_Boiling_(feat._Sinead_Harnett)_Disclosure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boiling Point",
+      "artist": "THE THE",
+      "has_synced": false,
+      "path": "select/11_Boiling_Point_THE_THE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boiling Point",
+      "artist": "Obituary",
+      "has_synced": true,
+      "path": "select/12_Boiling_Point_Obituary.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boiling Point (212 Sporadic Mix)",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/13_Boiling_Point_(212_Sporadic_Mix)_Obituary.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boiling Point (212° Sporadic Mix)",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/14_Boiling_Point_(212°_Sporadic_Mix)_Obituary.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Submerged In Boiling Flesh",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/15_Submerged_In_Boiling_Flesh_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boiling Point",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/16_Boiling_Point_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Boiling Point",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/17_Boiling_Point_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Boiling (Medlar Remix)",
+      "artist": "Disclosure",
+      "has_synced": true,
+      "path": "select/18_Boiling_(Medlar_Remix)_Disclosure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boiling",
+      "artist": "Disclosure",
+      "has_synced": false,
+      "path": "select/pl_01_Boiling_Disclosure.txt"
+    }
+  ]
+}
